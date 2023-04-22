@@ -15,10 +15,6 @@ This is [Readme.md](./Readme_RyanFitzgerald-17-04-2023.md) taken at the time of 
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-## About Me
-
-I'm Kushal, a ***Full Stack Software Developer*** passionate about building user-friendly, easy-to-use applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. As of now, I am focused on ***DevOps*** and ***Cloud*** technologies and tools.
-
 ## Let's Connect
 
 If you like have a coffee and a session or even a quick chat we can connect on [linkedin](https://www.linkedin.com/in/thisiskushalgupta/) and [twitter](https://twitter.com/thisis_kushal).
